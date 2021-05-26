@@ -24,3 +24,5 @@ Two algorithms for mimicking sexual and asexual reproduction. A 'starter' senten
 ### Avalance Model
 A simple 1 dimensionnal sandpile model 
 
+### Python Code Snippets
+A collection of small and useful python code snippets to use in other projects
