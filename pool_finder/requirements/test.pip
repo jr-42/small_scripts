@@ -1,0 +1,11 @@
+
+pytest
+pytest-cov
+openpyxl
+fire
+geopandas
+matplotlib
+pytest
+pandas
+scikit-learn
+Pillow
